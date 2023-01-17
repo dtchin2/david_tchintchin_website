@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+.link_bar {
+    padding-right: 3em;
+}
+
+.purple_link {
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 1em;
+}
+
+.purple_button {
+    background-color: purple;
+    border: none;
+}
+
+.purple_button:hover {
+    color: white;
+}
+
+.parent_div {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.intro_div {
+    display: inline-block;
+    color: white;
+    padding-right: 2em;
+    padding-top: 5em;
+}
+
+.avatar_div {
+    display: inline-block;
+}
+
+#skill_text {
+    color: purple;
+    font-size: x-large;
+}
+
+.david_tchintchin_text {
+    font-size: xx-large;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
