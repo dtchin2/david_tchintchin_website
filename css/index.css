@@ -16,6 +16,7 @@ body {
 .purple_button {
     background-color: purple;
     border: none;
+    padding-left: 1em;
 }
 
 .purple_button:hover {
