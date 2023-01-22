@@ -1,0 +1,23 @@
+.project_heading_text {
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.project_name_div {
+    width: 500px;
+    margin: auto;
+}
+
+.project_name {
+    color: purple;
+    font-size: large;
+}
+
+.project_text {
+    color: white;
+}
+
+.project_contents_list {
+    color: purple;
+}
