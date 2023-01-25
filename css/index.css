@@ -49,3 +49,9 @@ body {
     font-weight: 300;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.email_address {
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
